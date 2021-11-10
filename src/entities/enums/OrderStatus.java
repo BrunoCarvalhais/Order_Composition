@@ -1,4 +1,4 @@
-package application;
+package entities.enums;
 
 public enum OrderStatus {
 
@@ -6,4 +6,5 @@ public enum OrderStatus {
     PROCESSING,
     SHIPPED,
     DELIVERED;
+
 }
